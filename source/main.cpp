@@ -12,7 +12,8 @@ int main()
     << "\n"
     << " libnds_example_1\n"
     << " From\n"
-    << " https://github.com/richelbilderbeek/\n"
+    << " https://github.com\n"
+    << "   /richelbilderbeek\n"
     << "   /libnds_example_1\n"
     << "\n"
     << " Press A and B keys for effect\n";
