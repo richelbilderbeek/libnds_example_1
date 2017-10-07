@@ -12,6 +12,5 @@ This GitHub is part of
 
 ## External links
 
- * ['Hello World' using Qt Creator under Ubuntu for NDS](http://www.richelbilderbeek.nl/CppHelloWorldQtCreatorUbuntuNds.htm)
- * [devkitpro website](http://devkitpro.org)
- * [devKitPro buildscripts](https://github.com/devkitPro/buildscripts): to set up the environment
+ * [travis_qmake_gcc_cpp98_libnds](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
+ * [libnds_example_2](https://github.com/richelbilderbeek/libnds_example_2)
