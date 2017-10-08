@@ -13,4 +13,6 @@ This GitHub is part of
 ## External links
 
  * [travis_qmake_gcc_cpp98_libnds](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp98_libnds)
+ * [travis_qmake_gcc_cpp11_libnds](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp11_libnds)
+ * [travis_qmake_gcc_cpp14_libnds](https://github.com/richelbilderbeek/travis_qmake_gcc_cpp14_libnds)
  * [libnds_example_2](https://github.com/richelbilderbeek/libnds_example_2)
