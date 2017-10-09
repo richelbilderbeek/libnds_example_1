@@ -36,6 +36,3 @@ mkdir -p examples/nds
 cd examples/nds
 sudo wget https://sourceforge.net/projects/devkitpro/files/examples/nds/nds-examples-20170915.tar.bz2
 sudo tar -xvjf nds-examples-20170915.tar.bz2
-
-echo "export DEVKITPRO=/opt/devkitpro" >> ~/.bashrc
-echo "export DEVKITARM=$DEVKITPRO/devkitARM" >> ~/.bashrc
