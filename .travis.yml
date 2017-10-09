@@ -6,7 +6,7 @@ install:
   - pwd
   - my_github=${PWD##*/} 
   - echo $my_github
-  - ./build_libnds
+  - sudo ./build_libnds
 script:
   - export DEVKITPRO=/opt/devkitpro
   - export DEVKITARM=$DEVKITPRO/devkitARM
