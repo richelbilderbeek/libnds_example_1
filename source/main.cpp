@@ -1,6 +1,10 @@
 #include <nds.h>
 #include <iostream>
 
+# For 32 bit systems, add this line:
+# https://github.com/devkitPro/buildscripts/issues/26
+extern "C" void __sync_synchronize() {}
+
 int main()
 {
   //Initialization
