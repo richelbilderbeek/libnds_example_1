@@ -1,9 +1,14 @@
 # From https://devkitpro.org/wiki/Getting_Started/devkitARM
 language: cpp
+dist: bionic
 compiler: gcc
 
-install:
+install: 
+  - sudo apt update -qq
+  # Boost
+  - sudo apt install -qq libboost-all-dev
   - pwd
+  # Stuff
   - my_github=${PWD##*/} 
   - echo $my_github
   - sudo ./build_libnds_64
